@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231085352974",
+    "firebase_url": "https://smartsaver-fb0d2-default-rtdb.firebaseio.com",
+    "project_id": "smartsaver-fb0d2",
+    "storage_bucket": "smartsaver-fb0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231085352974:android:3b4f3fda7646a7f154345f",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231085352974-icetqa0n3uuthc0u7qhcenh8lkblb8fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaS0e9Ap0kER-HOp_irJ4AErOeB2zy3J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231085352974-icetqa0n3uuthc0u7qhcenh8lkblb8fk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231085352974-nps1geh503q2t7fl7gp2oi068og9lpk9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenseTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+Modules:
+1. Dashboard
+2. Expendicture Analysis
+3. Portfolio
+4. Savings Quest
+5. Chatbot
+
+1. Dashboard - UserProfile + Small Dashboard on Score
+2. Expendicture Analysis - Pie Charts, Transactions
+3. Portfolio - Call RestAPI from Stocks
+4. Savings Quest - Proper Examples
+5. Chatbot - Integrate with PyTorch
+
